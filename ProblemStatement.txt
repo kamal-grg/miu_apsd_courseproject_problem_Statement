@@ -1,0 +1,7 @@
+Personal Finance Management System
+
+Can add income
+can add expenses
+can add categories
+can list income, expense, by categories
+generate reports bargraph, pie
