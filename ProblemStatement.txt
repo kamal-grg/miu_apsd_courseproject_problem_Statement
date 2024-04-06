@@ -1,7 +1,19 @@
 Personal Finance Management System
+----------------------------------
 
-Can add income
-can add expenses
-can add categories
-can list income, expense, by categories
-generate reports bargraph, pie
+Mr. Jones is an employee at XYZ Company. He wants to create an application for personal use for his finance management. His income comes from different sources such as salary, bonus, commission, and sale of scrap items. He spends on various items such as school fees, groceries, entertainment, and donations. He wants to keep track of his financial income and expenses in a way that allows him to know his current balance every day. Additionally, he wants the system to display a summary of his income and expenses according to categories. The system must also allow updating transactions for only the last 7 days. He wants the system to generate reports such as listing all transactions, listing transactions within a date range, listing income by different categories, listing expenses by different categories, and showing a list of balances for each date. The system must store user information including first name, last name, date of birth, email address, password, and a secret PIN. The application software must enable login with either email and password or secret PIN. Transactions must store the transaction date, description, category, amount (income/expense), remarks for notes, and an optional image (proof of bills).Mr. Jones want system must have high performance.
+
+
+
+Short Problem Statements ( Functional Requirements )
+----------------------------------------------------
+
+1.Enable Mr. Jones to track his financial income and expenses.
+2.Provide a daily balance update.
+3.Display summaries of income and expenses by categories.
+4.Allow transaction updates for the last 7 days only.
+5.Generate reports including all transactions, transactions within a date range, income by categories, expenses by categories, and date-wise balances.
+6.Store user information securely.
+7.Allow login with email/password or secret PIN.
+8.Store transaction details: date, description, category, amount, remarks, and optional image proof of bills.
+9.System must have high performance.
